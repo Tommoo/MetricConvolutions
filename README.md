@@ -1,7 +1,7 @@
 # Metric Convolutions: A Unifying Theory to Adaptive Convolutions [\[Paper ICCV 2025\]](https://arxiv.org/abs/2406.05400)
-![teaser_image](assets/duck_motivation_adaptive_kernels)
+![teaser_image](assets/duck_motivation_adaptive_kernels.pdf)
 
-*** The code will be released for the ICCV 2025 conference ***
+**The code will be released for the ICCV 2025 conference**
 
 ---
 
