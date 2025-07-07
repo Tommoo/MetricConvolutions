@@ -1,7 +1,7 @@
 # Metric Convolutions: A Unifying Theory to Adaptive Convolutions [\[Paper ICCV 2025\]](https://arxiv.org/abs/2406.05400)
-![teaser_image](assets/duck_motivation_adaptive_kernels.pdf)
+![teaser_image](assets/duck_motivation_adaptive_kernels.png)
 
-**The code will be released for the ICCV 2025 conference**
+**THE CODE WILL BE RELEASED FOR THE ICCV 2025 CONFERENCE**
 
 ---
 
@@ -29,8 +29,6 @@ TODO
 
 ---
 
-
----
 ## License
 
 This project is licensed under the BSDS-3 License. See the `LICENSE` file for details.
