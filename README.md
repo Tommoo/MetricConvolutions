@@ -1,7 +1,10 @@
-# Metric Convolutions: A Unifying Theory to Adaptive Convolutions [\[Paper ICCV 2025\]](https://arxiv.org/abs/2406.05400)
+# Metric Convolutions: A Unifying Theory to Adaptive Convolutions [\[Paper ICCV 2025\]](https://openaccess.thecvf.com/content/ICCV2025/html/Dages_Metric_Convolutions_A_Unifying_Theory_to_Adaptive_Image_Convolutions_ICCV_2025_paper.html)
 ![teaser_image](assets/duck_motivation_adaptive_kernels.png)
 
-**THE CODE WILL BE RELEASED FOR THE ICCV 2025 CONFERENCE**
+
+## Poster
+
+![poster](assets/Metric_Convolutions_Poster_ICCV_2025.png)
 
 ---
 
@@ -13,19 +16,13 @@ Standard convolutions are prevalent in image processing and deep learning, but t
 
 ## Installation
 
-TODO
-
----
-
-## Quick usage
-
-TODO
+There is no need to for fancy import packages. The usual basic ones should do. Our code is in torch.
 
 ---
 
 ## Demos
 
-TODO
+You can find demos on how to use metric convolutions in the src folder.
 
 ---
 
@@ -40,10 +37,12 @@ This project is licensed under the BSDS-3 License. See the `LICENSE` file for de
 If you find our work useful in your research, please cite:
 
 ```bibtex
-@article{dages2024metric,
-  title={Metric Convolutions: A Unifying Theory to Adaptive Convolutions},
-  author={Dag{\`e}s, Thomas and Lindenbaum, Michael and Bruckstein, Alfred M},
-  journal={arXiv preprint arXiv:2406.05400},
-  year={2024}
+@InProceedings{Dages_2025_ICCV,
+    author    = {Dag\`es, Thomas and Lindenbaum, Michael and Bruckstein, Alfred M.},
+    title     = {Metric Convolutions: A Unifying Theory to Adaptive Image Convolutions},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {13974-13984}
 }
 ```
